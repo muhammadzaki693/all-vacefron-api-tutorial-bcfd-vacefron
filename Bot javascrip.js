@@ -1,5 +1,6 @@
 {
   "endpoints": [
+  //type + to space text
     "GET: /carreverse?text=TEXT", 
     "GET: /changemymind?text=TEXT", 
     "GET: /distractedbf?boyfriend=USER_AVATAR&woman=USER_AVATAR&girlfriend=USER_AVATAR", 
@@ -17,22 +18,4 @@
     "GET: /water?text=TEXT", 
     "GET: /wide?image=IMAGE_URL"
   ], 
-  "wrappers": {
-    "csharp": {
-      "github": "https://github.com/VACEfron/VACEfron.NET", 
-      "nuget": "https://www.nuget.org/packages/VACEfron.NET"
-    }, 
-    "python": {
-      "github": "https://github.com/Soheab/vacefron.py", 
-      "pypi": "https://pypi.org/project/vacefron.py"
-    }, 
-    "javascript": {
-      "github": "https://github.com/Sidemen19/VACEfron.js", 
-      "npm": "https://npmjs.com/package/vacefron"
-    }, 
-    "java": {
-      "github": "https://github.com/thunderstorm010/VACEfron4J"
-    }
-  }, 
-  "discord_server": "https://discord.gg/xJ2HRxZ"
 }
